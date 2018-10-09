@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# No need to save the logs on github
+tf_logs/
+
+
 .DS_Store
 
 # C extensions
